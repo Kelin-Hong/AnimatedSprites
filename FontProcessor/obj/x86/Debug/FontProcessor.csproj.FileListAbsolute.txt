@@ -1,5 +1,0 @@
-C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\AnimatedSprites\FontProcessor\bin\x86\Debug\FontProcessor.dll
-C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\AnimatedSprites\FontProcessor\bin\x86\Debug\FontProcessor.pdb
-C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\AnimatedSprites\FontProcessor\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\AnimatedSprites\FontProcessor\obj\x86\Debug\FontProcessor.dll
-C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\AnimatedSprites\FontProcessor\obj\x86\Debug\FontProcessor.pdb
